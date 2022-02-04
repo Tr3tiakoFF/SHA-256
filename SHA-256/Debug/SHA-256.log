@@ -1,0 +1,5 @@
+﻿  SHA-256.cpp
+C:\Users\Administrator\source\repos\SHA-256\SHA-256\SHA\sha.h(53,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\source\repos\SHA-256\SHA-256\SHA\sha.h(53,91): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\SHA-256\SHA-256\SHA\sha.h(86,20): warning C4018: '<': signed/unsigned mismatch
+  SHA-256.vcxproj -> C:\Users\Administrator\source\repos\SHA-256\Debug\SHA-256.exe
